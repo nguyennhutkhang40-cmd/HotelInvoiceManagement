@@ -2,8 +2,8 @@
 
 Đồ án môn học: **Lập Trình Hướng Đối Tượng (OOP)**  
 Trường: **Đại học Gia Định (GDU)** - Khoa Công Nghệ Thông Tin  
-- **Sinh viên thực hiện:** NGUYỄN NHỰT KHANG
-- **Giảng viên hướng dẫn:** ThS. LÊ HUỲNH PHƯỚC  
+- **Sinh viên thực hiện:** NGUYỄN NHỰT KHANG, TRẦN ĐÌNH NAM
+- **Giảng viên hướng dẫn:** ThS. LÝ NGỌC HƯNG  
 
 ---
 
